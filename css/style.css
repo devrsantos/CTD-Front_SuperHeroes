@@ -1,0 +1,199 @@
+.BarDiscount {
+    position: absolute;
+    left: 0;
+    top: 0;
+
+    background-color: #1cd1b0;
+
+    width: 1024px;
+    height: 38px;
+}
+
+.BarDiscount p {
+    margin: 10px 0 10px 10px;
+}
+
+header {
+    position: absolute;
+    left: 0;
+    top: 38px;
+
+    background-color: #00669f;
+
+    width: 1024px;
+    height: 101px;
+
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+}
+
+header h1 {
+    margin: 28px 0 26px 28px;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+    color: #000000;
+}
+
+main {
+    position: absolute;
+    left: 112px;
+    top: 224px;
+
+    width: 834px;
+    height: 598px;
+}
+
+.batmam {
+    position: absolute;
+    left: 0px;
+
+    width: 374px;
+    height: 597px;
+}
+
+.bgBatmam {
+    position: absolute;
+    left: 0px;
+    top: 0;
+
+    width: 374px;
+    height: 218px;
+
+    background-image: url(./../img/fundoBatman.png);
+
+    border-radius: 16px 16px 0px 0px;
+}
+
+.vetorCoracao {
+    position: absolute;
+    left: 23px;
+    top: 17px;
+
+    width: 33px;
+    height: 33px;
+
+    background-image: url(./../img/Vector.png);
+    background-repeat: no-repeat;
+}
+
+.imagemPersonagem {
+    position: absolute;
+    left: 119px;
+    top: -74px;
+
+    width: 135px;
+    height: 135px;
+
+    background-color: #c4c4c4;
+
+    border-radius: 50%;
+
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.imagemBatmam {
+    background-image: url(./../img/batmam.png);
+}
+
+.imagemHarley {
+    background-image: url(./../img/harley.png);
+}
+
+.harleyQuinn {
+    position: absolute;
+    left: 460px;
+
+    width: 374px;
+    height: 597px;
+}
+
+.bgHarley {
+    position: absolute;
+    left: 0px;
+    top: 0;
+
+    width: 374px;
+    height: 218px;
+
+    background-image: url(./../img/fundoHarley.png);
+
+    border-radius: 16px 16px 0px 0px;
+}
+
+.infoCard {
+    position: absolute;
+    top: 218px;
+
+    width: 374px;
+    height: 379px;
+
+    background-color: #f3f3f3;
+
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+h2 {
+    position: absolute;
+    left: 118px;
+    top: 75px;
+
+    width: 137px;
+    height: 39.5px;
+
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 35.16px;
+    text-align: center;
+}
+
+.infoPersonagem {
+    position: absolute;
+    left: 36px;
+    top: 152px;
+
+    width: 301px;
+    height: 127px;
+
+    text-align: center;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18.75px;
+
+    color: #333333;
+}
+
+button {
+    position: absolute;
+    left: 113px;
+    top: 303px;
+
+    width: 145px;
+    height: 55px;
+
+    background-color: #00669f;
+
+    text-align: center;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 17.58px;
+    color: #fff;
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    top: 972px;
+
+    width: 1024px;
+    height: 51px;
+
+    background-color: #00669f;
+}
+
+footer p {
+    margin: 16px 0 16px 28px;
+    color: #fff9f9;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
