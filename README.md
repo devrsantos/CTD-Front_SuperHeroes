@@ -14,3 +14,5 @@ Bimestre: 1
 Disciplina: Front End I
 
 Utilizando o design desenvolvido no Figma, disponível no seguinte link (https://www.figma.com/file/JJduGYhIo0wCvrTVKvn4TR/Front-end-Aula10-ModelosDeCaixa?node-id=0%3A1), a ideia será rever os diferentes elementos e estilos que correspondem a esse resultado visual e esquematizá-lo.
+
+Housers da equipe 7: Rodrigo Ferreira | Adriano Augusto | Renan Santos | Robson Silva
